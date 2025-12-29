@@ -6,7 +6,7 @@ Windows performance optimization tool that removes bloatware and maximizes gamin
 
 ![Version](https://img.shields.io/badge/version-1.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-purple)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-purple) 
 
 ## Quick Install
 
