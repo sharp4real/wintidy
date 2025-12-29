@@ -13,7 +13,7 @@ Windows performance optimization tool that removes bloatware and maximizes gamin
 Run this command in PowerShell (as Administrator):
 
 ```powershell
-Start-Process powershell -Verb runAs -ArgumentList '-NoProfile -ExecutionPolicy Bypass -Command "iwr https://github.com/sharp4real/wintidy/releases/download/v1.1/WinTidy.ps1 -UseBasicParsing | iex"'
+irm https://github.com/sharp4real/wintidy/releases/download/v1.1/WinTidy.ps1 | iex
 
 ```
 
