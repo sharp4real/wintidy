@@ -11,13 +11,13 @@ Windows performance optimization tool that removes bloatware and maximizes gamin
 Run this command in PowerShell (as Administrator):
 
 ```powershell
-irm https://github.com/sharp4real/wintidy/releases/download/v1.0/WinTidy.ps1 | iex
+irm https://github.com/sharp4real/wintidy/releases/download/v1.1/WinTidy.ps1 | iex
 ```
 
 Or download and run manually:
 
 ```powershell
-Invoke-WebRequest -Uri "https://github.com/sharp4real/wintidy/releases/download/v1.0/WinTidy.ps1" -OutFile "$env:TEMP\WinTidy.ps1"; powershell -ExecutionPolicy Bypass -File "$env:TEMP\WinTidy.ps1"
+Invoke-WebRequest -Uri "https://github.com/sharp4real/wintidy/releases/download/v1.1/WinTidy.ps1" -OutFile "$env:TEMP\WinTidy.ps1"; powershell -ExecutionPolicy Bypass -File "$env:TEMP\WinTidy.ps1"
 ```
 
 ## Features
